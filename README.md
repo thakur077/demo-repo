@@ -1,3 +1,3 @@
 # demo-repo
 
-Author : Tushar 
+Author : Tushar Thakur
